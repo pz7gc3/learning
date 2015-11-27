@@ -1,0 +1,20 @@
+{
+  "name": "converter",
+  "version": "0.0.0",
+  "description": "This project is based on tutorial at https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "tutorial",
+    "nodejs",
+    "mocha"
+  ],
+  "author": "Johan Sundström",
+  "license": "ISC"
+}
