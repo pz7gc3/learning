@@ -1,0 +1,19 @@
+1. git init
+  Make a repo for the tutorial
+
+2. npm init
+  Initialize a NodeJS project 
+
+3. Install mocha & chai modules
+  npm install mocha --save
+  npm install chai --save
+
+4. Install request
+  npm install request --save
+
+  The requet module is used for building http client requests.
+
+5. Install express
+  npm install express --save
+
+  
