@@ -2,7 +2,7 @@
   Make a repo for the tutorial
 
 2. npm init
-  Initialize a NodeJS project 
+  Initialize a NodeJS project
 
 3. Install mocha & chai modules
   npm install mocha --save
@@ -21,5 +21,8 @@
   ./node_modules/.bin/mocha --reporter spec
 
 7. Implemented basic tests
-  Implemented the test/converter.js 
+  Implemented the test/converter.js
   It runs but fails. To be continued in the next step.
+
+8. Implemented the application logic
+  The logic was straight forward and make the tests pass.  
