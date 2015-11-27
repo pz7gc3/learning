@@ -31,3 +31,7 @@
   the app/server.js will test the server.
   In the first attempt everything looks good even if no server
   is implemented! 
+
+10. Whoaa! Now they fail as expected
+  Call the done parameted (its a function) for every 
+  asychronous if.
