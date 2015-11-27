@@ -35,3 +35,5 @@
 10. Whoaa! Now they fail as expected
   Call the done parameted (its a function) for every 
   asychronous if.
+
+11. Created empty app/server.js skeleton
