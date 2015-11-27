@@ -16,4 +16,6 @@
 5. Install express
   npm install express --save
 
-  
+6. Configured mocha as test runner
+  This is how You run it manually
+  ./node_modules/.bin/mocha --reporter spec
