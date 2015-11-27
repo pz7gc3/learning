@@ -25,4 +25,9 @@
   It runs but fails. To be continued in the next step.
 
 8. Implemented the application logic
-  The logic was straight forward and make the tests pass.  
+  The logic was straight forward and make the tests pass.
+
+9. Create tests for the server
+  the app/server.js will test the server.
+  In the first attempt everything looks good even if no server
+  is implemented! 
